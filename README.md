@@ -3,6 +3,9 @@
 This project is an advanced cheat menu template built using **PyImGui** and **GLFW3**.  
 It provides a foundation for creating customizable cheat menus — **no actual cheats are implemented**.
 
+# OPEN MENU WITH "HOME"!
+
+
 ![cool](https://i.imgur.com/mmCCbYl.gif)
 
 ---
